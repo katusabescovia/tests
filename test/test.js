@@ -1,3 +1,5 @@
+//Katusabe Scovia and Akech Sandra
+
 // cycle 1
 // import { assert } from 'chai';
 // import multiply from '../multiply.js';
@@ -63,8 +65,7 @@
 // });
 
 // cycle 5
-
-
+//
 import { assert } from 'chai';
 import multiply from '../multiply.js';
 describe('multiply', () => {

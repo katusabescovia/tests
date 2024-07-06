@@ -1,3 +1,4 @@
+//Katusabe Scovia and Akech Sandra
 // cycle 1
 // function multiply(a, b) {
 //     return 1;
