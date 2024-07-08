@@ -1,4 +1,4 @@
-// Akech Sandra & Katusabe 
+// Akech Sandra & Katusabe Scovia
 
 //This imports the assert function from the Chai assertion library, which is used for making assertions in tests.
 
@@ -18,6 +18,7 @@ describe('multiply', () => {
 // Explanation:
 
 // Expects multiply(1, 1) to return 1. With the initial implementation (return 1;), this test would pass, as multiply(1, 1) indeed returns 1.
+
 
 
 
@@ -104,7 +105,6 @@ describe('multiply', () => {
 // New Test Case: Add a new it block to test multiply(4, 4). This verifies that the multiply function correctly computes 4 multiplied by 4, with the expected result being 16.
 
 
-
 // cycle 5
 
 // import { assert } from 'chai';
@@ -112,10 +112,6 @@ describe('multiply', () => {
 // describe('multiply', () => {
 //   it('should return 1 when multiplying 1 and 1', () => {
 //     assert.equal(multiply(1, 1), 1);
-//   });
-
-//   it('should return 4 when multiplying 2 and 2', () => {
-//     assert.equal(multiply(2, 2), 4);
 //   });
 
 //   it('should return 9 when multiplying 3 and 3', () => {
@@ -137,6 +133,4 @@ describe('multiply', () => {
 // Cycle 4 Recap: This cycle includes all tests from Cycle 4 and adds a new test.
 
 // New Test Case: Add a new it block to test multiply(23, 45). This ensures that the multiply function correctly calculates 23 multiplied by 45, expecting the result to be 1035.
-
-
 

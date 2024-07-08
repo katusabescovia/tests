@@ -1,9 +1,6 @@
-// Akech Sandra & Katusabe Scovia
-
-//  multiply.js uses ES6 syntax (export default) to export the multiply function. This function now correctly multiplies two numbers a and b and returns their product (a * b).
-
-
-
+// export default: Makes multiply the default export of the module.
+// multiply function: Takes two arguments, a and b, and returns their product.
+// Usage: Import the function in another file and call it to multiply two numbers.
 
 
 export default function multiply(a, b) {
