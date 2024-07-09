@@ -9,7 +9,11 @@ describe('Tax Calculator', () => {
   //   assert.equal(calculateTax(11999), 0);
   // });
 
-  it('should return 1600 for earnings of 20000', () => {
-    assert.equal(calculateTax(20000), 1600);
+  // it('should return 1600 for earnings of 20000', () => {
+  //   assert.equal(calculateTax(20000), 1600);
+  // });
+
+  it('should return 4800 for earnings of 36000', () => {
+    assert.equal(calculateTax(36000), 4800);
   });
 });
