@@ -12,11 +12,11 @@ function testFibonacci() {
     // assert.strictEqual(fibonacci(2), 1);
     // console.log('Test passed: Fibonacci of 2 is 1');
 
-    assert.strictEqual(fibonacci(3), 2);
-    console.log('Test passed: Fibonacci of 3 is 2');
+    // assert.strictEqual(fibonacci(3), 2);
+    // console.log('Test passed: Fibonacci of 3 is 2');
     
-    // assert.strictEqual(fibonacci(4), 3);
-    // console.log('Test passed: Fibonacci of 4 is 3');
+    assert.strictEqual(fibonacci(4), 3);
+    console.log('Test passed: Fibonacci of 4 is 3');
     
     // assert.strictEqual(fibonacci(5), 5);
     // console.log('Test passed: Fibonacci of 5 is 5');
