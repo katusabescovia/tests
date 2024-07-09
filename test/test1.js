@@ -10,13 +10,13 @@ describe('factorial', () => {
 //     assert.equal(factorial(2), 2);
 //   });
 
-  it('should return 6 when n is 3', () => {
-    assert.equal(factorial(3), 6);
-  });
-
-//   it('should return 24 when n is 4', () => {
-//     assert.equal(factorial(4), 24);
+//   it('should return 6 when n is 3', () => {
+//     assert.equal(factorial(3), 6);
 //   });
+
+  it('should return 24 when n is 4', () => {
+    assert.equal(factorial(4), 24);
+  });
 
 //   it('should return 120 when n is 5', () => {
 //     assert.equal(factorial(5), 120);
